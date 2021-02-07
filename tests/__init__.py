@@ -3,7 +3,7 @@ tests: this package contains all Scrapy unittests
 
 see http://doc.scrapy.org/en/latest/contributing.html#running-tests
 """
-
+print("masuk")
 import os
 
 tests_datadir = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'sample_data')
