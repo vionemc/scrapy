@@ -1,7 +1,7 @@
 """
 Scrapy - a screen scraping framework written in Python
 """
-
+print("masuk")
 __all__ = ['__version__', 'version_info', 'optional_features', 'twisted_version',
            'Spider', 'Request', 'FormRequest', 'Selector', 'Item', 'Field']
 
